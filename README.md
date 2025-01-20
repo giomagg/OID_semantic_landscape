@@ -3,7 +3,11 @@
 
 This repository provides access to the code used to produce the OID semantic landscape. See the interactive visualization at <https://observatory.informationdemocracy.org/report-literature/>. The literature used to produce the map is available as a `bib` file at <https://observatory.informationdemocracy.org/wp-content/uploads/2025/01/report_bibliography.bib>
 
-
+The map was produced thanks to: 
+1. Datamapplot: <https://datamapplot.readthedocs.io/en/latest/index.html>
+2. Sentence Tranformers: <https://www.sbert.net>
+3. UMAP: <https://umap-learn.readthedocs.io/en/latest/index.html>
+4. HDBSCAN: <https://hdbscan.readthedocs.io/en/latest/index.html>
 
 ## Introduction to the OID semantic landscape
 
