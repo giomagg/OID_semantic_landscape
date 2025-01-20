@@ -1,4 +1,3 @@
-# Informatin and Democracy Semantic Landscape
 ![Alt Text](https://github.com/giomagg/OID_semantic_landscape/blob/main/Images/Schermata%202025-01-16%20alle%2013.54.21.png)
 
 This repository provides access to the code used to produce the OID semantic landscape. See the interactive visualization at <https://observatory.informationdemocracy.org/report-literature/>. The literature used to produce the map is available as a `bib` file at <https://observatory.informationdemocracy.org/wp-content/uploads/2025/01/report_bibliography.bib>
@@ -8,6 +7,8 @@ The map was produced thanks to:
 2. `Sentence Tranformers`: <https://www.sbert.net>
 3. `UMAP`: <https://umap-learn.readthedocs.io/en/latest/index.html>
 4. `HDBSCAN`: <https://hdbscan.readthedocs.io/en/latest/index.html>
+
+Read more about the Observatory on Information and Democracy at <https://observatory.informationdemocracy.org>
 
 ## Introduction to the OID semantic landscape
 
@@ -23,8 +24,6 @@ You can also navigate the map using the filters and search bar. When activated t
 1. The regional filter allows you to select sources based on the origin of the study. You can select more than one area at the same time.
 2. The publication year filter, which allows you to select sources based on when they were published. You can drag the filter to dynamically select more years and move the window through time.
 3. You can also target your search using the search bar on the top left. Type a word or sentence you are interested in and the map will display those sources containing the word in their title.
-
-Read more about the Observatory on Information and Democracy at <https://observatory.informationdemocracy.org>
 
 *Authorship Note
 The data map was created by Giovanni Maggi, OID Data Officer, in partnership with the CNRS Institute of Complex Systems.*
