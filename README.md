@@ -25,7 +25,7 @@ You can also navigate the map using the filters and search bar. When activated t
 2. The publication year filter, which allows you to select sources based on when they were published. You can drag the filter to dynamically select more years and move the window through time.
 3. You can also target your search using the search bar on the top left. Type a word or sentence you are interested in and the map will display those sources containing the word in their title.
 
-*Authorship Note
+*Authorship Note:
 The data map was created by Giovanni Maggi, OID Data Officer, in partnership with the CNRS Institute of Complex Systems.*
 
 
