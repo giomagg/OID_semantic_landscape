@@ -1,6 +1,4 @@
 # Informatin and Democracy Semantic Landscape
-## A data map of the literature gathered by the OID First research cycle
-
 ![Alt Text](https://github.com/giomagg/OID_semantic_landscape/blob/main/Images/Schermata%202025-01-16%20alle%2013.54.21.png)
 
 This repository provides access to the code used to produce the OID semantic landscape. See the interactive visualization at <https://observatory.informationdemocracy.org/report-literature/>. The literature used to produce the map is available as a `bib` file at <https://observatory.informationdemocracy.org/wp-content/uploads/2025/01/report_bibliography.bib>
