@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/giomagg/OID_semantic_landscape/blob/main/Images/Schermata%202025-01-16%20alle%2013.54.21.png)
 
-This repository provides access to the code used to produce the OID semantic landscape. See the interactive visualization at <https://observatory.informationdemocracy.org/report-literature/>. The literature used to produce the map is available as a `bib` file at <https://observatory.informationdemocracy.org/wp-content/uploads/2025/01/report_bibliography.bib>
+This repository provides access to the code used to produce the OID semantic landscape. See the interactive visualization [here](https://observatory.informationdemocracy.org/report-literature/). The literature used to produce the map is available as a `bib` file [here](https://observatory.informationdemocracy.org/wp-content/uploads/2025/01/report_bibliography.bib).
 
 The map was produced thanks to: 
 1. `Datamapplot`: <https://datamapplot.readthedocs.io/en/latest/index.html>
@@ -8,7 +8,7 @@ The map was produced thanks to:
 3. `UMAP`: <https://umap-learn.readthedocs.io/en/latest/index.html>
 4. `HDBSCAN`: <https://hdbscan.readthedocs.io/en/latest/index.html>
 
-Read more about the Observatory on Information and Democracy at <https://observatory.informationdemocracy.org>
+Read more about the Observatory on Information and Democracy at the [OID website](https://observatory.informationdemocracy.org).
 
 ## Introduction to the OID semantic landscape
 
